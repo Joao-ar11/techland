@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --bege: #F0D78C;
+    --branco: #FCFAFA;
+    --azul-claro: #64C4ED;
+    --azul-escuro: #4F81C7;
+
+    font-size: 17px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    padding: 15px;
+    display: flex;
+    background-color: var(--azul-escuro);
+    color: var(--branco);
+}
+
+img[src*="logo"] {
+    height: 60px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+
+li {
+    list-style: none;
+}
+
+li:first-child {
+    padding-right: 10px;
+    border-right: 1px solid var(--branco);
+}
+
+li:last-child {
+    margin-left: 10px;
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+}
+
+#logo > p {
+    margin-left: 10px;
+    font-size: 1.5rem;
+}
+
+#pesquisa {
+    margin-left: 150px;
+    margin-right: 65px;
+    display: flex;
+    align-items: center;
+}
+
+#pesquisa > input{
+    padding-left: 10px;
+    height: 2.3rem;
+    width: 700px;
+    border: 0;
+    border-radius: 15px;
+    font-size: 1.3rem;
+}
+
+#pesquisa > button {
+    cursor: pointer;
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    border: 0;
+    border-radius: 20px;
+    background-color: var(--bege);
+}
+
+#pesquisa > button > img {
+    height: 2rem;
+}
+
+#carrinho {
+    height: 40px;
+}
+
+header > a {
+    align-self: center;
+}
