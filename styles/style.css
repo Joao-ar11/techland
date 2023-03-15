@@ -3,13 +3,23 @@
     padding: 0;
 }
 
+@font-face {
+    font-family: "bebas kai";
+    src: url("../fonts/bebaskai-webfont.woff2") format("woff2"),
+        url("../fonts/bebaskai-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
 :root {
+
     --bege: #F0D78C;
     --branco: #FCFAFA;
     --azul-claro: #64C4ED;
     --azul-escuro: #4F81C7;
 
     font-size: 17px;
+    font-family: "bebas kai", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 body {
@@ -52,6 +62,23 @@ li:last-child {
     margin-left: 10px;
 }
 
+nav {
+    display: flex;
+}
+
+nav > button {
+    cursor: pointer;
+    border: 2px solid var(--bege);
+    border-top-width: 0;
+    text-align: center;
+    width: 20%;
+    height: 50px;
+    background-color: var(--azul-claro);
+    font-size: 1.3rem;
+    font-family: "bebas kai", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: var(--branco);
+}
+
 #logo {
     display: flex;
     align-items: center;
@@ -63,8 +90,9 @@ li:last-child {
 }
 
 #pesquisa {
-    margin-left: 150px;
+    margin-left: 10%;
     margin-right: 65px;
+    width: 70%;
     display: flex;
     align-items: center;
 }
@@ -72,10 +100,11 @@ li:last-child {
 #pesquisa > input{
     padding-left: 10px;
     height: 2.3rem;
-    width: 700px;
+    width: 85%;
     border: 0;
     border-radius: 15px;
     font-size: 1.3rem;
+    appearance: none;
 }
 
 #pesquisa > button {
