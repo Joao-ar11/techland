@@ -181,10 +181,3 @@ footer {
     cursor: pointer;
     height: 30px;
 }
-
-.atendimento::first-line,
-.faq::first-line,
-.midias-sociais::first-line {
-    font-size: 2rem;
-    font-weight: bold;
-}
