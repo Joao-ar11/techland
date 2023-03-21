@@ -90,6 +90,7 @@ header {
 }
 
 .pesquisa button {
+    cursor: pointer;
     min-width: 2.4rem;
     background-color: var(--bege);
 
