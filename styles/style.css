@@ -113,3 +113,46 @@ header {
 .conta hr {
     height: 2rem;
 }
+
+/* carrinho */
+#top > a > img {
+    max-height: 2.5rem;
+}
+
+/* style da navegação */
+
+nav {
+    height: 2.5rem;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    flex-grow: 1;
+}
+
+/* botões da navegação */
+
+nav button {
+    cursor: pointer;
+    min-width: 100px;
+    width: 100%;
+    height: 100%;
+    background-color: var(--azul-claro);
+    font-family: "bebas kai";
+    font-size: 1.3rem;
+    color: var(--branco);
+
+    border: 2px solid var(--bege);
+    border-width: 0 2px 3px 2px;
+}
+
+nav button:hover {
+    background-color: #74D4ED;
+}
+
+nav button:active {
+    background-color: #44A4CD;
+}
