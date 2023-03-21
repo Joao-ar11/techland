@@ -9,64 +9,69 @@
     <title>Techland</title>
 </head>
 <body>
-    <header>
-        <a href="./index.html">
-            <div id="logo">
-                <img src="./img/logo.png" alt="">
-                <p>Techland</p>
+    <div class="container">
+        <header>
+            <div id="top">
+                <a href="./index.html">
+                    <div class="logo">
+                        <img src="./img/logo.png" alt="">
+                        <h1>Techland</h1>
+                    </div>
+                </a>
+                <form class="pesquisa" action="./pages/pesquisa.html?pesquisa=">
+                    <input type="search" placeholder="Pesquisa">
+                    <button type="submit"><img src="./img/search.png" alt="Lupa de pesuisa"></button>
+                </form>
+                <ul class="conta">
+                    <li><a href="./pages/login.html">Login</a></li>
+                    <hr>
+                    <li><a href="./pages/cadastro.html">Cadastrar</a></li>
+                </ul>
+                <a href="./pages/carrinho.html"><img id="carrinho" src="./img/carrinho.png" alt="Carrinho de compras"></a>
             </div>
-        </a>
-        <div id="pesquisa">
-            <input type="search" placeholder="Pesquisa">
-            <button><img src="./img/search.png" alt=""></button>
-        </div>
-        <ul id="conta">
-            <li><a href="./pages/login.html">Login</a></li>
-            <li><a href="./pages/cadastro.html">Cadastrar</a></li>
-        </ul>
-        <a href="./pages/carrinho.html"><img id="carrinho" src="./img/carrinho.png" alt=""></a>
-    </header>
-    <nav>
-        <button>Celular</button>
-        <button>Notebook</button>
-        <button>PC</button>
-        <button>Hardware</button>
-        <button>Acessórios</button>
-    </nav>
-    <main></main>
-    <footer>
-        <div id="atendimento">
-            <p>
-                Atendimento <br>
-                Horário de atendimento: <br>
-                08:00 às 20:00 - <br>
-                Segunda a Sábado, <br>
-                horário de Brasília <br>
-                (Exceto domingo e feriados) <br>
-                Endereço: <br>
-                Rua dos bobos N° 0 - <br>
-                Recife/PE - CEP: 00000-001 <br>
-                Central SAC: <br>
-                (81) 4002-8922 <br>
-                E-mail: <br>
-                faleconosco@techland.com.br
-            </p>
-        </div>
-        <div>
-            <div id="faq">
-                <p>FAQ <br>
-                    <a href="#header">FAQ</a>
+            <nav>
+                <button>Celular</button>
+                <button>Notebook</button>
+                <button>PC</button>
+                <button>Hardware</button>
+                <button>Acessórios</button>
+            </nav>
+        </header>
+        <main></main>
+        <footer>
+            <div class="atendimento">
+                <p>
+                    Atendimento <br>
+                    Horário de atendimento: <br>
+                    08:00 às 20:00 - <br>
+                    Segunda a Sábado, <br>
+                    horário de Brasília <br>
+                    (Exceto domingo e feriados) <br>
+                    Endereço: <br>
+                    Rua dos bobos N° 0 - <br>
+                    Recife/PE - CEP: 00000-001 <br>
+                    Central SAC: <br>
+                    (81) 4002-8922 <br>
+                    E-mail: <br>
+                    faleconosco@techland.com.br
                 </p>
             </div>
-            <div id="midias-sociais">
-                <p>Mídias socias</p>
-                <div>
-                    <img src="./img/facebook.png" alt="">
-                    <img src="./img/instagram.png" alt="">
-                    <img src="./img/twitter.png" alt="">
+            <div>
+                <div class="faq">
+                    <p>FAQ <br>
+                        <a href="">FAQ</a>
+                    </p>
+                </div>
+                <div class="midias-sociais">
+                    <p>Mídias socias</p>
+                    <div>
+                        <img src="./img/facebook.png" alt="">
+                        <img src="./img/instagram.png" alt="">
+                        <img src="./img/twitter.png" alt="">
+                    </div>
                 </div>
             </div>
-        </div>
-    </footer>
+        </footer>
+    </div>
 </body>
 </html>
