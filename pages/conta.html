@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/style.css">
+    <link rel="stylesheet" href="../styles/conta.css">
+    <link rel="icon" href="./img/logo.png">
+    <title>Techland</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div id="top">
+                <a href="../index.html">
+                    <div class="logo">
+                        <img src="../img/logo.png" alt="">
+                        <h1>Techland</h1>
+                    </div>
+                </a>
+                <form class="pesquisa" action="./pages/pesquisa.html?pesquisa=">
+                    <input type="search" placeholder="Pesquisa">
+                    <button type="submit"><img src="../img/search.png" alt="Lupa de pesuisa"></button>
+                </form>
+                <ul class="conta">
+                    <li><a href="./pages/login.html">Login</a></li>
+                    <hr>
+                    <li><a href="./pages/cadastro.html">Cadastrar</a></li>
+                </ul>
+                <a href="./pages/carrinho.html"><img id="carrinho" src="../img/carrinho.png" alt="Carrinho de compras"></a>
+            </div>
+            <nav>
+                <a href="./pages/pesquisa?pesquisa=celular"><button type="button">Celular</button></a>
+                <a href="./pages/pesquisa?pesquisa=notebook"><button type="button">Notebook</button></a>
+                <a href="./pages/pesquisa?pesquisa=pc"><button type="button">PC</button></a>
+                <a href="./pages/pesquisa?pesquisa=hardware"><button type="button">Hardware</button></a>
+                <a href="./pages/pesquisa?pesquisa=acessorios"><button type="button">Acessórios</button></a>
+            </nav>
+        </header>
+        <main>
+            <div id="conta">
+                <div id="profile-img"><img src="../img/profile.jpg" alt="Foto de perfil do usuário"></div>
+                <div id="informacao">
+                    <form action="">
+                        <label for="Nome">Nome: <br><input type="text" name="nome" id="nome"></label>
+                        <label for="Data de Nascimento">Data de Nascimento: <br><input type="text" name="data_nasc" id="data_nasc"></label>
+                        <label for="Email">Email: <br><input type="email" name="email" id="email"></label>
+                        <label for="Senha">Senha: <br><input type="password" name="senha" id="senha"></label>
+                    </form>
+                    <div><a href="./alterar_senha.html">Mudar Senha</a></div>
+                    <div id="favorito"><a href="./favoritos.html"><button>Favoritos</button></a></div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <div class="atendimento">
+                <h2>Atendimento</h2>
+                <p>
+                    Horário de atendimento: <br>
+                    08:00 às 20:00 - <br>
+                    Segunda a Sábado, <br>
+                    horário de Brasília <br>
+                    (Exceto domingo e feriados) <br>
+                    Endereço: <br>
+                    Rua dos bobos N° 0 - <br>
+                    Recife/PE - CEP: 00000-001 <br>
+                    Central SAC: <br>
+                    (81) 4002-8922 <br>
+                    E-mail: <br>
+                    faleconosco@techland.com.br
+                </p>
+            </div>
+            <div class="faq">
+                <h2>FAQ</h2>
+                <p><a href="">FAQ</a></p>
+            </div>
+            <div class="midias-sociais">
+                <h2>Mídias socias</h2>
+                <div>
+                    <img src="../img/facebook.png" alt="Ícone do facebook">
+                    <img src="../img/instagram.png" alt="Ícone do instagram">
+                    <img src="../img/twitter.png" alt="Ícone do twitter">
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
