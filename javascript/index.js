@@ -1,12 +1,10 @@
-/*<img src="" alt="">
-    <p class="nome"></p>
-    <p class="estrelas"><span class="estrela"></span><span class="quantidade"></span></p>
-    <p class="preco-antigo"></p>
-    <button type="button"><img src="./img/nao-favorito.png" alt=""></button>
-    <p class="preco"></p>
-*/
+for (let i = 0; i < 4; i++) {
+    adicionarProdutos(".mais-vendidos");
+}
 
-adicionarProdutos(".mais-vendidos");
+for (let i = 0; i < 4; i++) {
+    adicionarProdutos(".descontos-da-semana");
+}
 
 function adicionarProdutos(local) {
     fetch("./javascript/produtos.json")
