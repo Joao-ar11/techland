@@ -4,17 +4,6 @@
     margin: 0px;
 }
 
-:root {
-
-    --bege: #F0D78C;
-    --branco: #FCFAFA;
-    --azul-claro: #64C4ED;
-    --azul-escuro: #4F81C7;
-
-    font-size: 18px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
 article {
     margin: 20px;
 }
@@ -38,6 +27,12 @@ article {
     margin-bottom: 10px;
     object-fit: cover;
     float: left;
+}
+
+#meio #preco-antigo p {
+    font-size: .8rem;
+    text-decoration: line-through;
+    color: #909090
 }
 
 #meio #preco { 
@@ -100,44 +95,6 @@ article {
     display: flex;
     flex-direction: row;
     width: 100%;
-}
-
-.produto {
-    width: 25%;
-    border: 1px solid var(--bege);
-    margin: 5px;
-    padding: 10px;
-    border-radius: 10px;
-}
-
-.produto:hover {
-    box-shadow: 1px 1px 10px rgb(102, 102, 102);
-}
-
-.produto img {
-    width: 100%;
-    object-fit: cover;
-    
-}
-
-.produto a {
-    text-decoration: none;
-    color: black;
-}
-
-.produto h2 {
-    font-size: 0.875rem;
-}
-
-.produto #preco {
-    color: var(--azul-escuro);
-    font-size: 1.5rem;
-    font-weight: bold;
-    float: left;
-}
-
-.produto #favorito {
-    margin-left: 85%;
 }
 
 #favorito img {

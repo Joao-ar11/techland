@@ -16,9 +16,9 @@ function adicionarProdutos(local) {
 
 function adicionarElementos(local, produto) {
     const elemento = document.querySelector(local);
-    const id = produto["id"]
+    const id = produto["id"];
     const link = document.createElement("a");
-    link.href = `./pages/produto.html?=${id}`;
+    link.href = `./pages/produto.html?id=${id}`;
     link.style["text-decoration"] = "none";
     link.style["color"] = "inherit";
     elemento.appendChild(link);
@@ -26,19 +26,33 @@ function adicionarElementos(local, produto) {
     const novoProduto = document.createElement("div");
     novoProduto.classList.add("produto");
 
-    const nomeDaImagem = produto["imagem"];
+    adicionarImagem(novoProduto, produto["imagem"]);
+
+    adicionarNome(novoProduto, produto["nome"]);
+
+    adicionarReviews(novoProduto, produto["estrelas"], produto["reviews"]);
+
+    adicionarPrecos(novoProduto, produto["desconto"], produto["preco"]);
+
+    adicionarBotao(novoProduto);
+
+    link.appendChild(novoProduto);
+}
+
+function adicionarImagem(local, nomeDaImagem) {
     const imagem = document.createElement("img");
     imagem.src = `./img/${nomeDaImagem}`
-    novoProduto.appendChild(imagem);
+    local.appendChild(imagem);
+}
 
-    const nomeDoProduto = produto["nome"] 
+function adicionarNome(local, nomeDoProduto) {
     const nome = document.createElement("p");
     nome.classList.add("nome")
     nome.textContent = nomeDoProduto;
-    novoProduto.appendChild(nome);
+    local.appendChild(nome);
+}
 
-    const quantidadeDeEstrelas = produto["estrelas"];
-    const quantidadeDeReviews = produto["reviews"];
+function adicionarReviews(local, quantidadeDeEstrelas, quantidadeDeReviews) {
     const estrelas = document.createElement("p");
     estrelas.classList.add("estrelas");
     const spanEstrelas = document.createElement("span");
@@ -55,24 +69,16 @@ function adicionarElementos(local, produto) {
     spanReviews.classList.add("quantidade");
     spanReviews.textContent = `(${quantidadeDeReviews})`
     estrelas.appendChild(spanReviews);
-    novoProduto.appendChild(estrelas);
+    local.appendChild(estrelas);
+}
 
-    const desconto = produto["desconto"];
-
-    let precoSemDesconto = produto["preco"];
+function adicionarPrecos(local, desconto, precoSemDesconto) {
     const precoAntigo = document.createElement("p");
     precoAntigo.classList.add("preco-antigo");
     if (desconto !== 0) {
         precoAntigo.textContent = `R$${precoSemDesconto.toFixed(2)}`.replace(".", ",")
     }
-    novoProduto.appendChild(precoAntigo);
-
-    const button = document.createElement("button");
-    button.type = "button";
-    const buttonImage = document.createElement("img");
-    buttonImage.src = "./img/nao-favorito.png";
-    button.appendChild(buttonImage);
-    novoProduto.appendChild(button);
+    local.appendChild(precoAntigo);
 
     const precoAtual = document.createElement("p");
     precoAtual.classList.add("preco")
@@ -81,7 +87,14 @@ function adicionarElementos(local, produto) {
     } else {
         precoAtual.textContent = `R$${precoSemDesconto.toFixed(2)}`.replace(".", ",");
     }
-    novoProduto.appendChild(precoAtual);
+    local.appendChild(precoAtual);
+}
 
-    link.appendChild(novoProduto);
+function adicionarBotao(local) {
+    const button = document.createElement("button");
+    button.type = "button";
+    const buttonImage = document.createElement("img");
+    buttonImage.src = "./img/nao-favorito.png";
+    button.appendChild(buttonImage);
+    local.appendChild(button);
 }

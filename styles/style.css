@@ -115,9 +115,9 @@ header {
     height: 2rem;
 }
 
-/* carrinho */
+/* carrinho e favoritos*/
 #top > a > img {
-    max-height: 2.5rem;
+    max-height: 2.0rem;
 }
 
 /* style da navegação */
