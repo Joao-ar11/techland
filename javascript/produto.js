@@ -1,7 +1,7 @@
 const urlString = window.location.href;
 const url = new URL(urlString);
 const id = url.searchParams.get("id");
-const produto = buscarProduto(id);
+buscarProduto(id);
 
 function buscarProduto(id) {
     fetch("../javascript/produtos.json")
@@ -12,7 +12,6 @@ function buscarProduto(id) {
                     carregarProduto(produtos[i]);
                 }
             };
-            return produtos[-1];
         });
 }
 
@@ -60,4 +59,5 @@ function carregarPreco(precoSemDesconto, desconto) {
 function carregarFichaTecnica(conteudoDaFicha) {
     const ficha = document.querySelector("#fim p");
     ficha.textContent = conteudoDaFicha;
+    ficha.style.whiteSpace = "pre-line";
 }

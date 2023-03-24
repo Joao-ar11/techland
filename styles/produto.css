@@ -8,6 +8,10 @@ article {
     margin: 20px;
 }
 
+#avaliacao {
+    color:#e6b803;
+}
+
 #barra-1 {
     width: 100%;
     margin-top: 10px;
@@ -92,9 +96,8 @@ article {
 }
 
 #produtos {
-    display: flex;
-    flex-direction: row;
-    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 #favorito img {
@@ -116,13 +119,10 @@ article {
     background-position: center;
 }
 
+
+
 @media (max-width: 950px) {
     #meio img {
         width: 100%;
-    }
-
-    #produtos {
-        flex-wrap: wrap;
-        justify-content: space-between;
     }
 }
