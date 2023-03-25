@@ -37,7 +37,7 @@ header {
 /* style da barra de cima do header */
 
 #top {
-    padding: 10px 20px 10px 10px;
+    padding: 10px;
     background-color: var(--azul-escuro);
     
     display: flex;
@@ -123,6 +123,7 @@ header {
 
 /* carrinho e favoritos*/
 #top > a > img {
+    margin: 0px 10px;
     max-height: 2.0rem;
 }
 

@@ -46,6 +46,30 @@
         "categorias": "acessorio",
         "ficha-tecnica": "Características:\r\n- Marca: Logitech G\r\n- Modelo: C922 Pro 960-001088\r\n\r\nEspecificações:\r\n- Comprimento do cabo: 1,8 m\r\n\r\nDimensões:\r\n- Sem clipe: 29 x 95 x 24 mm\r\n- Incluindo clipe: 44 x 95 x 71 mm\r\n\r\nFunciona com:\r\n- XSplit\r\n- OBS\r\n\r\nCompatibilidade:\r\n- Windows 7, Windows 8 ou Windows 10\r\n- Mac OS X 10.9 ou superior\r\n- Chrome OS\r\n- Android v5.0 ou acima via porta USB\r\n\r\nConteúdo da embalagem:\r\n- 01 Webcam Logitech\r\n- 01 Tripod\r\n- 01 Documentação do usuário\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n270 gramas (bruto com embalagem)"
     },
+    
+    {
+        "id": 5,
+        "nome": "Placa de Vídeo RTX 4090 Suprim Liquid X MSI NVIDIA Geforce, 24 GB GDDR6X, DLSS, Ray Tracing - Geforce RTX 4090 SUPRIM LIQUID X 24G",
+        "preco": 14776.46,
+        "desconto": 15,
+        "estrelas": 5,
+        "reviews": 1,
+        "imagem": "produto-5.png",
+        "categorias": "hardware",
+        "ficha-tecnica": "Características:\r\n- Marca: Gigabyte\r\n- Modelo: Geforce RTX 4090 SUPRIM LIQUID X 24G\r\n- Cor: Preto\r\n\r\nEspecificações:\r\nUnidade de Processamento Gráfico:\r\n- NVIDIA GeForce RTX 4090\r\n\r\nInterface:\r\n- PCI Express Gen 4\r\nRelógios Principais:\r\n- PCI Express Gen 4\r\n\r\nCuda Cores:\r\n- 16384 Unidades\r\n\r\nVelocidade da Memória:\r\n- 21 Gbps\r\n\r\nMemória:\r\n- 24 GB GDDR6X\r\n\r\nBarramento de Memória:\r\n- 384-bit\r\n\r\nResultado:\r\n- DisplayPort x 3 (v1.4a)\r\n- HDMI x 1 (suporta 4K@120Hz HDR, 8K@60Hz HDR e taxa de atualização variável conforme especificado em HDMI 2.1a)\r\n\r\nSuporte HDCP:\r\n- Sim\r\n\r\nConectores de Alimentação:\r\rn- 16 pinos x 1\r\n\r\nFonte de Alimentação Recomendada:\r\n- 850 W\r\n\r\nSuporte à Versão do DirectX:\r\n- 12 final\r\n\r\nSuporte à Cersão do OPENGL:\r\n- 4.6\r\n\r\nMáximo de Exibições:\r\n- 4\r\n\r\nTecnologia G-SYNC:\r\n- Sim\r\n\r\nResolução Máxima Digital:\r\n- 7680x4320\r\n\r\nConteúdo da Embalagem:\r\n- Placa de Vídeo MSI NVIDIA Geforce RTX 4090 Suprim Liquid X\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n5000 gramas (bruto com embalagem)"
+    }, 
+    
+    {
+        "id": 6,
+        "nome": "Headset Gamer Astro A40 TR + MixAmp M80 Gen 4 para Xbox One - Preto/Vermelho - 939-001808",
+        "preco": 1058.81,
+        "desconto": 15,
+        "estrelas": 5,
+        "reviews": 5,
+        "imagem": "produto-6.png",
+        "categorias": "acessorio",
+        "ficha-tecnica": "Características:\r\n\r\n- Marca: Astro\r\n- Modelo: Headset Gamer A40 TR + MIXAMPTM M80\r\n\r\nEspecificações:\r\nHeadset A40 TR:\r\n- Resposta de frequência: 20 - 20,000 Hz\r\n- Impedância: 48 ohms\r\n- Distorção: THD < 0.1%\r\n- Microfone: 6,0 mm unidirecional\r\n- Conexão: 3,5 mm\r\n\r\nMIXAMPTM M80:\r\n- Power Output: 0.973 Vrms @ 1 kHz\r\n- Fidelidade de Áudio: 48 kHz 16 bits por canal estéreo\r\n- Fidelidade de Microfone: Mono de 16 kHz de 16 bits\r\n- Compatível exclusivamente com controle Xbox One\r\n\r\nEntrada auxiliar, Digital Daisy Chain\r\n- Compatível exclusivamente com Xbox One, PC e MAC\r\n\r\nRecursos\r\nA40 TR\r\n- Compatível com ASTRO Áudio V2\r\n- Qualidade de áudio profissional\r\n- Conforto e acabamento superiores\r\n- Microfone preciso e removível\r\n- Tags para fones customizáveis\r\n- Compatível com consoles, PC e MAC\r\n\r\nMIXAMPTM M80\r\n- Sintonizado com o Astro Áudio V2\r\n- Balanceamento de voz: ajuste entre áudio do jogo e bate-papo por voz\r\n- Escolha entre 3 modos de equalização diferentes\r\n- Compatível exclusivamente com controle Xbox One\r\n\r\nConteúdo da embalagem:\r\n- Headset A40 TR\r\n- Microfone A40 TR\r\n- Tags de fones ASTRO\r\n- MixAmpTM M80\r\n- Cabo de áudio de 1,0 m\r\n- Documentação do usuárior\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n1051 gramas (bruto com embalagem)"
+    },
 
     {
         "id": 0,
