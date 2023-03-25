@@ -1,5 +1,4 @@
-const urlString = window.location.href;
-const url = new URL(urlString);
+const url = new URL(window.location.href);
 const id = url.searchParams.get("id");
 buscarProduto(id);
 
