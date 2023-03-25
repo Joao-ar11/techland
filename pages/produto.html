@@ -20,10 +20,11 @@
                     <h1>Techland</h1>
                 </div>
             </a>
-            <div class="pesquisa">
-                <input type="search" placeholder="Pesquisa">
-                <button type="button"><img src="../img/search.png" alt="Lupa de pesuisa"></button>
-            </div>
+            <form action="../pages/pesquisa.html" class="pesquisa" method="get">
+                <label for="barra-de-pesquisa"><span aria-label="barra-de-pesquisa"></span></label>
+                <input id="barra-de-pesquisa" type="search" name="pesquisa" placeholder="Pesquisa">
+                <button type="submit"><img src="../img/search.png" alt="Lupa de pesuisa"></button>
+            </form>
             <ul class="conta">
                 <li><a href="../pages/login.html">Login</a></li>
                 <hr>
