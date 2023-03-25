@@ -1,16 +1,16 @@
 for (let i = 0; i < 4; i++) {
-    adicionarProdutos(".mais-vendidos");
+    adicionarProduto(".mais-vendidos", i);
 }
 
 for (let i = 0; i < 4; i++) {
-    adicionarProdutos(".descontos-da-semana");
+    adicionarProduto(".descontos-da-semana", i);
 }
 
-function adicionarProdutos(local) {
+function adicionarProduto(local, id) {
     fetch("./javascript/produtos.json")
         .then((json) => json.json())
         .then((produtos) => {
-            adicionarElementos(local, produtos[0]);
+            adicionarElementos(local, produtos[id]);
         });
 }
 
