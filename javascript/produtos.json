@@ -17,5 +17,39 @@
         "reviews": 0,
         "imagem": "erro.png",
         "ficha-tecnica": "erro"
+    },
+
+    {
+        "id": 2,
+        "nome": "Mouse Gamer Logitech G403 HERO com RGB LIGHTSYNC, 6 Botões Programáveis, Ajuste de Peso e Sensor HERO 25K - 910-005631",
+        "preco": 214,
+        "desconto": 5,
+        "estrelas": 5,
+        "reviews": 1117,
+        "imagem": "",
+        "ficha-tecnica": "Características:\r\n- Marca: Logitech G\r\n- Modelo: 910-005631\r\n\r\nEspecificações:\r\nRastreamento:\r\n- Sensor: HERO 16K / 25K*\r\n- Resolução: 100 – 16.000 DPI\r\n- Aceleração máx: testada a mais de 40 G²\r\n- Velocidade máx.: testado a mais de 400 IPS³\r\n* você pode atualizá-lo para o novo HERO 25K, através do software G HUB.\r\n\r\nSensibilidade:\r\n- Formato de dados USB: 16 bits/eixo\r\n- Taxa de transmissão USB: 1.000 Hz (1 ms)\r\n- Microprocessador: 32 bits ARM\r\n\r\nRequisitos de sistema:\r\n- Windows® 7 ou superior\r\n- macOS 10.11 ou superior\r\n- Porta USB\r\n- Conexão com a internet para download de software opcional\r\n\r\nDimensões:\r\n- Altura: 124 mm\r\n- Largura: 68 mm\r\n- Profundidade: 43 mm\r\n- Comprimento do cabo: 2,1 m\r\n\r\nRecursos:\r\n- Iluminação LIGHTSYNC RGB1 (Requer o software Logitech G HUB)\n\r- Aderência com laterais emborrachadas\r\n- 6 botões programáveis\r\n- Sistema de tensionamento de botões mecânicos\r\n\r\nConteúdo da embalagem:\r\n- Mouse Gamer Logitech G403\r\n\r\nGarantia:\r\n24 meses de garantia\r\n\r\nPeso:\r\n190 gramas (bruto com embalagem)"
+    },
+
+    {
+        "id": 3,
+        "nome": "Teclado Mecânico Gamer Logitech G512 Carbon com Layout ABNT2, RGB LIGHTSYNC, USB Passthrough, Switch Exclusivo GX Brown - 920-009400",
+        "preco": 689,
+        "desconto": 5,
+        "estrelas": 5,
+        "reviews": 112,
+        "imagem": "",
+        "ficha-tecnica": "Características:\r\n- Marca: Logitech G\r\n- Modelo: 920-009400\r\n\r\nEspecificações:\r\nSwitches Mecânicos GX Brown:\r\n- Distância de atuação: 1,9 mm\r\n- Força de atuação: 50 g\r\n- Distância total de deslocamento: 4,0 mm\r\n\r\nDimensões:\r\n- Comprimento: 445 mm\r\n- Largura: 132 mm\r\n- Altura: 36 mm\r\n\r\nRequisitos de sistema:\r\n- 1 porta USB para teclado\r\n- 1 porta USB para USB integrada ao teclado\r\n- Acesso à Internet para download de software (Opcional)\r\n\r\nRecursos:\r\n- Iluminação RGB LIGHTSYNC com ~ 16,8 milhões de cores personalizáveis por tecla.\r\n- Teclas com switches mecânicos GX Brown com digitação tátil silenciosa.\r\n- Acabamento em alumínio que proporciona uma estrutura robusta com perfil fino e estética premium.\r\n- Teclado com padrão brasileiro (ABNT2)\r\n- Entrada USB 2.0 adicional para conectar convenientemente seu mouse, pendrive ou telefone.\r\n- Teclas FN de função secundárias para iluminação, controle de mídia e muito mais.\r\n\r\nConteúdo da embalagem:\r\n- Teclado mecânico RGB para jogos\r\n- Documentação do usuário\r\n- Garantia de 2 anos do fabricante.\r\n\r\nGarantia:\r\n24 meses de garantia\r\n\r\nPeso:\r\n1350 gramas (bruto com embalagem)"
+    },
+
+    {
+        "id": 4,
+        "nome": "Webcam Full HD Logitech C922 Pro Stream com Microfone Embutido, 1080p e Tripé Incluso, Compatível Logitech Capture - 960-001087",
+        "preco": 399,
+        "desconto": 5,
+        "estrelas": 5,
+        "reviews": 255,
+        "imagem": "",
+        "ficha-tecnica": "Características:\r\n- Marca: Logitech G\r\n- Modelo: C922 Pro 960-001088\r\n\r\nEspecificações:\r\n- Comprimento do cabo: 1,8 m\r\n\r\nDimensões:\r\n- Sem clipe: 29 x 95 x 24 mm\r\n- Incluindo clipe: 44 x 95 x 71 mm\r\n\r\nFunciona com:\r\n- XSplit\r\n- OBS\r\n\r\nCompatibilidade:\r\n- Windows 7, Windows 8 ou Windows 10\r\n- Mac OS X 10.9 ou superior\r\n- Chrome OS\r\n- Android v5.0 ou acima via porta USB\r\n\r\nConteúdo da embalagem:\r\n- 01 Webcam Logitech\r\n- 01 Tripod\r\n- 01 Documentação do usuário\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n270 gramas (bruto com embalagem)"
     }
+
 ]
