@@ -7,6 +7,7 @@
         "estrelas": 4,
         "reviews": 11,
         "imagem": "produto-1.png",
+        "categorias": "notebook",
         "ficha-tecnica": "Características:\r\n- Marca: Lenovo\r\n- Modelo: 82MG0009BR\r\n- Cor: Preto\r\n\r\nEspecificações:\r\nProcessador:\r\n- Modelo: Intel Core i5-11300H\r\n- Cores / Threads: Quad Core / 8 Threads\r\n- Cache: 8MB\r\n- Clock: 2.6GHz (até 4.4GHz Max Turbo\r\n\r\nMemória RAM:\r\n- 8GB SO-DIMM DDR4-3200\r\n- Expansível até 32GB (2 slots DDR4 3200MHz)\r\n\r\nArmazenamento (SSD):\r\n- 512GB M.2 PCIe NVMe\r\n\r\nMáxima expansão de armazenamento:\r\n- Até dois drives: 1x 2.5\" HDD + 1x M.2 2242 SSD ou 1x M.2 2242/2280 SSD + 1x M.2 2242 SSD\r\n- 2.5\" HDD até 1TB\r\n- M.2 2242 SSD até 512GB\r\n- M.2 2280 SSD até 1TB\r\n\r\nChipset:\r\n- Intel SoC Platform\r\n\r\nPlaca de Vídeo Dedicada:\r\n- NVIDIA GeForce GTX 1650 4GB\r\n\r\nSistema Operacional [Pré-Instalado]:\r\n- Windows 11 Home\r\n\r\nTela:\r\n- 15.6\"\r\n- Resolução: Full HD (1920 x 1080) WVA Antirreflexo\r\n- Formato: 16:9 widescree\r\n- Tipo de Painel: WVA\r\n- Brilho: 250 nits\r\n- Taxa de Atualização: 60 Hz\r\n- Wireless: WiFi 2x2 AX\r\n\r\nCamera:\r\n- HD-720p com Privacidade\r\n\r\nMicrofone:\r\n- Microfone tipo Dual Array\r\n\r\nBluetooth:\r\n- 5.0\r\n\r\nAudio (alto falantes):\r\n- Stereo, Nahimic Audio (2 x 2W)\r\n\r\nConexões:\r\n- 1x Audio (porta combo para headset/headphone)\r\n- 2x USB (3.2 Gen 1)\r\n- 1x USB tipo C 3.2 Gen 1\r\n- 1x HDMI 2.0\r\n- 1x RJ-45\r\n- Lan / Rede: 100/1000\r\n\r\nTeclado:\r\n- Iluminação backlit LED: Branco\r\n- Teclado Numérico:\r\n\r\nBateria:\r\n- 3 células 45Wh\r\n- Adaptador AC: 135W\r\n\r\nPPB:\r\n- Processo MCT/Data: 01200.002363/2012-38  16/07/2012\r\n- Portaria MCT/MDIC/MF: 786, de 1/11/2012 DOU 5/11/2012\r\n\r\nSoftwares:\r\n- Lenovo Vantage Microsoft Office Trial (30 dias)\r\n\r\n*Lista de Softwares pode mudar sem aviso prévio\r\n\r\n\r\nConteúdo da Embalagem:\r\n- Notebook Gamer Lenovo Gaming 3\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n3240 gramas (bruto com embalagem)"
     },
 
@@ -18,6 +19,7 @@
         "estrelas": 5,
         "reviews": 1117,
         "imagem": "produto-2.png",
+        "categorias": "acessorio",
         "ficha-tecnica": "Características:\r\n- Marca: Logitech G\r\n- Modelo: 910-005631\r\n\r\nEspecificações:\r\nRastreamento:\r\n- Sensor: HERO 16K / 25K*\r\n- Resolução: 100 – 16.000 DPI\r\n- Aceleração máx: testada a mais de 40 G²\r\n- Velocidade máx.: testado a mais de 400 IPS³\r\n* você pode atualizá-lo para o novo HERO 25K, através do software G HUB.\r\n\r\nSensibilidade:\r\n- Formato de dados USB: 16 bits/eixo\r\n- Taxa de transmissão USB: 1.000 Hz (1 ms)\r\n- Microprocessador: 32 bits ARM\r\n\r\nRequisitos de sistema:\r\n- Windows® 7 ou superior\r\n- macOS 10.11 ou superior\r\n- Porta USB\r\n- Conexão com a internet para download de software opcional\r\n\r\nDimensões:\r\n- Altura: 124 mm\r\n- Largura: 68 mm\r\n- Profundidade: 43 mm\r\n- Comprimento do cabo: 2,1 m\r\n\r\nRecursos:\r\n- Iluminação LIGHTSYNC RGB1 (Requer o software Logitech G HUB)\n\r- Aderência com laterais emborrachadas\r\n- 6 botões programáveis\r\n- Sistema de tensionamento de botões mecânicos\r\n\r\nConteúdo da embalagem:\r\n- Mouse Gamer Logitech G403\r\n\r\nGarantia:\r\n24 meses de garantia\r\n\r\nPeso:\r\n190 gramas (bruto com embalagem)"
     },
 
@@ -29,6 +31,7 @@
         "estrelas": 5,
         "reviews": 112,
         "imagem": "produto-3.png",
+        "categorias": "acessorio",
         "ficha-tecnica": "Características:\r\n- Marca: Logitech G\r\n- Modelo: 920-009400\r\n\r\nEspecificações:\r\nSwitches Mecânicos GX Brown:\r\n- Distância de atuação: 1,9 mm\r\n- Força de atuação: 50 g\r\n- Distância total de deslocamento: 4,0 mm\r\n\r\nDimensões:\r\n- Comprimento: 445 mm\r\n- Largura: 132 mm\r\n- Altura: 36 mm\r\n\r\nRequisitos de sistema:\r\n- 1 porta USB para teclado\r\n- 1 porta USB para USB integrada ao teclado\r\n- Acesso à Internet para download de software (Opcional)\r\n\r\nRecursos:\r\n- Iluminação RGB LIGHTSYNC com ~ 16,8 milhões de cores personalizáveis por tecla.\r\n- Teclas com switches mecânicos GX Brown com digitação tátil silenciosa.\r\n- Acabamento em alumínio que proporciona uma estrutura robusta com perfil fino e estética premium.\r\n- Teclado com padrão brasileiro (ABNT2)\r\n- Entrada USB 2.0 adicional para conectar convenientemente seu mouse, pendrive ou telefone.\r\n- Teclas FN de função secundárias para iluminação, controle de mídia e muito mais.\r\n\r\nConteúdo da embalagem:\r\n- Teclado mecânico RGB para jogos\r\n- Documentação do usuário\r\n- Garantia de 2 anos do fabricante.\r\n\r\nGarantia:\r\n24 meses de garantia\r\n\r\nPeso:\r\n1350 gramas (bruto com embalagem)"
     },
 
@@ -40,6 +43,7 @@
         "estrelas": 5,
         "reviews": 255,
         "imagem": "produto-4.png",
+        "categorias": "acessorio",
         "ficha-tecnica": "Características:\r\n- Marca: Logitech G\r\n- Modelo: C922 Pro 960-001088\r\n\r\nEspecificações:\r\n- Comprimento do cabo: 1,8 m\r\n\r\nDimensões:\r\n- Sem clipe: 29 x 95 x 24 mm\r\n- Incluindo clipe: 44 x 95 x 71 mm\r\n\r\nFunciona com:\r\n- XSplit\r\n- OBS\r\n\r\nCompatibilidade:\r\n- Windows 7, Windows 8 ou Windows 10\r\n- Mac OS X 10.9 ou superior\r\n- Chrome OS\r\n- Android v5.0 ou acima via porta USB\r\n\r\nConteúdo da embalagem:\r\n- 01 Webcam Logitech\r\n- 01 Tripod\r\n- 01 Documentação do usuário\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n270 gramas (bruto com embalagem)"
     },
 

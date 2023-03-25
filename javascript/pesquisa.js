@@ -25,7 +25,7 @@ function pesquisar(termo, produtos) {
         const regex = new RegExp(termo, "i");
         if (regex.test(produtos[i]["nome"])) {
             listaDeProdutos.push(produtos[i]);
-        } else if (regex.test(produtos[i]["ficha-tecnica"])){
+        } else if (regex.test(produtos[i]["categorias"])){
             listaDeProdutos.push(produtos[i])
         }
     }
