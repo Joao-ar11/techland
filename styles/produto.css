@@ -4,6 +4,11 @@
     margin: 0px;
 }
 
+hr {
+    background-color: var(--branco);
+    width: .1px;
+}
+
 article {
     margin: 20px;
 }

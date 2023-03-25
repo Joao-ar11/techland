@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="./styles/classeProduto.css">
     <link rel="icon" href="./img/logo.png">
     <title>Techland</title>
-    <script src="../javascript/index.js" defer></script>
+    <script src="./javascript/index.js" defer></script>
     </script>
 </head>
 <body>
@@ -22,10 +22,11 @@
                         <h1>Techland</h1>
                     </div>
                 </a>
-                <div class="pesquisa">
-                    <input type="search" placeholder="Pesquisa">
-                    <button type="button"><img src="./img/search.png" alt="Lupa de pesuisa"></button>
-                </div>
+                <form action="./pages/pesquisa.html" class="pesquisa" method="get">
+                    <label for="barra-de-pesquisa"><span aria-label="barra-de-pesquisa"></span></label>
+                    <input id="barra-de-pesquisa" type="search" name="pesquisa" placeholder="Pesquisa">
+                    <button type="submit"><img src="./img/search.png" alt="Lupa de pesuisa"></button>
+                </form>
                 <ul class="conta">
                     <li><a href="./pages/login.html">Login</a></li>
                     <hr>
@@ -35,11 +36,11 @@
                 <a href="./pages/carrinho.html"><img id="carrinho" src="./img/carrinho.png" alt="Carrinho de compras"></a>
             </div>
             <nav>
-                <a href="./pages/pesquisa?pesquisa=celular"><button type="button">Celular</button></a>
-                <a href="./pages/pesquisa?pesquisa=notebook"><button type="button">Notebook</button></a>
-                <a href="./pages/pesquisa?pesquisa=pc"><button type="button">PC</button></a>
-                <a href="./pages/pesquisa?pesquisa=hardware"><button type="button">Hardware</button></a>
-                <a href="./pages/pesquisa?pesquisa=acessorios"><button type="button">Acessórios</button></a>
+                <a href="./pages/pesquisa.html?pesquisa=celular"><button type="button">Celular</button></a>
+                <a href="./pages/pesquisa.html?pesquisa=notebook"><button type="button">Notebook</button></a>
+                <a href="./pages/pesquisa.html?pesquisa=pc"><button type="button">PC</button></a>
+                <a href="./pages/pesquisa.html?pesquisa=hardware"><button type="button">Hardware</button></a>
+                <a href="./pages/pesquisa.html?pesquisa=acessorios"><button type="button">Acessórios</button></a>
             </nav>
         </header>
         <main>
