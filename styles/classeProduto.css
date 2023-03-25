@@ -2,7 +2,7 @@
     cursor: pointer;
 
     padding: 20px;
-    min-width: 295px;
+    max-width: 295px;
     font-family: Arial, Helvetica, sans-serif;
 
     display: grid;
