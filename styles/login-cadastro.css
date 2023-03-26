@@ -57,3 +57,15 @@ label, h2, p {
 h2 {
     font-size: 1.8rem;
 }
+
+form p {
+    margin: 20px 0;
+}
+
+.valido, .valido:focus {
+    border: 2px solid limegreen !important;
+}
+
+.invalido, .invalido:focus {
+    border: 2px solid red !important;
+}
