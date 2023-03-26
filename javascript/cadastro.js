@@ -11,7 +11,7 @@ inputsDeInformacao.forEach((input) => {
 const inputsDeSenha = document.querySelectorAll(".senha");
 inputsDeSenha.forEach((input) => {
     input.addEventListener("input", () => checarValidacaoDeSenha(inputsDeSenha));
-})
+});
 
 function checarValidacaoDeInformacao(elemento) {
     if (elemento.value === "" || !elemento.checkValidity()) {
