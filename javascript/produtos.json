@@ -1,5 +1,14 @@
 [
     {
+        "id": 0,
+        "nome": "erro",
+        "preco": 0,
+        "reviews": 0,
+        "imagem": "erro.png",
+        "ficha-tecnica": "erro"
+    },
+
+    {
         "id": 1,
         "nome": "Notebook Gamer Lenovo Gaming 3i Intel Core i5-11300H, GeForce GTX 1650, 8GB RAM, SSD 512GB, 15.6 Full HD, Windows 11, Preto - 82MG0009BR",
         "preco": 4309,
@@ -7,7 +16,7 @@
         "estrelas": 4,
         "reviews": 11,
         "imagem": "produto-1.png",
-        "categorias": "notebook",
+        "categorias": "computador, notebook",
         "ficha-tecnica": "Características:\r\n- Marca: Lenovo\r\n- Modelo: 82MG0009BR\r\n- Cor: Preto\r\n\r\nEspecificações:\r\nProcessador:\r\n- Modelo: Intel Core i5-11300H\r\n- Cores / Threads: Quad Core / 8 Threads\r\n- Cache: 8MB\r\n- Clock: 2.6GHz (até 4.4GHz Max Turbo\r\n\r\nMemória RAM:\r\n- 8GB SO-DIMM DDR4-3200\r\n- Expansível até 32GB (2 slots DDR4 3200MHz)\r\n\r\nArmazenamento (SSD):\r\n- 512GB M.2 PCIe NVMe\r\n\r\nMáxima expansão de armazenamento:\r\n- Até dois drives: 1x 2.5\" HDD + 1x M.2 2242 SSD ou 1x M.2 2242/2280 SSD + 1x M.2 2242 SSD\r\n- 2.5\" HDD até 1TB\r\n- M.2 2242 SSD até 512GB\r\n- M.2 2280 SSD até 1TB\r\n\r\nChipset:\r\n- Intel SoC Platform\r\n\r\nPlaca de Vídeo Dedicada:\r\n- NVIDIA GeForce GTX 1650 4GB\r\n\r\nSistema Operacional [Pré-Instalado]:\r\n- Windows 11 Home\r\n\r\nTela:\r\n- 15.6\"\r\n- Resolução: Full HD (1920 x 1080) WVA Antirreflexo\r\n- Formato: 16:9 widescree\r\n- Tipo de Painel: WVA\r\n- Brilho: 250 nits\r\n- Taxa de Atualização: 60 Hz\r\n- Wireless: WiFi 2x2 AX\r\n\r\nCamera:\r\n- HD-720p com Privacidade\r\n\r\nMicrofone:\r\n- Microfone tipo Dual Array\r\n\r\nBluetooth:\r\n- 5.0\r\n\r\nAudio (alto falantes):\r\n- Stereo, Nahimic Audio (2 x 2W)\r\n\r\nConexões:\r\n- 1x Audio (porta combo para headset/headphone)\r\n- 2x USB (3.2 Gen 1)\r\n- 1x USB tipo C 3.2 Gen 1\r\n- 1x HDMI 2.0\r\n- 1x RJ-45\r\n- Lan / Rede: 100/1000\r\n\r\nTeclado:\r\n- Iluminação backlit LED: Branco\r\n- Teclado Numérico:\r\n\r\nBateria:\r\n- 3 células 45Wh\r\n- Adaptador AC: 135W\r\n\r\nPPB:\r\n- Processo MCT/Data: 01200.002363/2012-38  16/07/2012\r\n- Portaria MCT/MDIC/MF: 786, de 1/11/2012 DOU 5/11/2012\r\n\r\nSoftwares:\r\n- Lenovo Vantage Microsoft Office Trial (30 dias)\r\n\r\n*Lista de Softwares pode mudar sem aviso prévio\r\n\r\n\r\nConteúdo da Embalagem:\r\n- Notebook Gamer Lenovo Gaming 3\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n3240 gramas (bruto com embalagem)"
     },
 
@@ -15,7 +24,7 @@
         "id": 2,
         "nome": "Mouse Gamer Logitech G403 HERO com RGB LIGHTSYNC, 6 Botões Programáveis, Ajuste de Peso e Sensor HERO 25K - 910-005631",
         "preco": 214,
-        "desconto": 5,
+        "desconto": 10,
         "estrelas": 5,
         "reviews": 1117,
         "imagem": "produto-2.png",
@@ -27,7 +36,7 @@
         "id": 3,
         "nome": "Teclado Mecânico Gamer Logitech G512 Carbon com Layout ABNT2, RGB LIGHTSYNC, USB Passthrough, Switch Exclusivo GX Brown - 920-009400",
         "preco": 689,
-        "desconto": 5,
+        "desconto": 20,
         "estrelas": 5,
         "reviews": 112,
         "imagem": "produto-3.png",
@@ -72,12 +81,133 @@
     },
 
     {
-        "id": 0,
-        "nome": "erro",
-        "preco": 0,
-        "reviews": 0,
-        "imagem": "erro.png",
-        "ficha-tecnica": "erro"
-    }
+        "id": 7,
+        "nome": "SSD 240 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 350MB/s - SA400S37/240G",
+        "preco": 211.75,
+        "desconto": 15,
+        "estrelas": 5,
+        "reviews": 4736,
+        "imagem": "produto-7.png",
+        "categorias": "hardware",
+        "ficha-tecnica": "Características:\r\n\r\n- Marca: Kingston\r\n\r\n- Modelo: SA400S37/240G\r\n\r\n \r\n\r\nEspecificações:\r\n\r\n- Formato: 2,5 pol \r\n\r\n- Interface: SATA Rev. 3.0 (6Gb/s) — compatível com a versão anterior SATA Rev. 2.0 (3Gb/s)\r\n\r\n- Capacidades: 240GB\r\n\r\n- NAND: TLC \r\n\r\n- Performance de referência - até 500MB/s para leitura e 350MB/s para gravação \r\n\r\n- Temperatura de armazenamento: -40 °C a 85 °C \r\n\r\n- Temperatura de operação: 0 °C a 70 °C\r\n\r\n- Vibração quando em operação: 2,17G pico (7 – 800 Hz)\r\n\r\n- Vibração quando não está em operação: 20G pico (10 – 2000 Hz)\r\n\r\n- Expectativa de vida útil: 1 milhão de horas MTB\r\n\r\n \r\n\r\nBenefícios: \r\n\r\n- 10x mais rápido do que um disco rígido: Com incríveis velocidades de leitura/gravação, o SSD A400 não somente irá aumentar o desempenho, como também poderá ser usado para dar vida nova em computadores mais antigos. \r\n\r\n- Robusto: O A400 é resistente a impactos e vibrações, para confiabilidade reforçada em notebooks e outros dispositivos móveis. \r\n\r\n- Ideal para desktops e notebooks: A400 tem um formato de 7 mm parase ajustar auma grande variedade de computadores. É ideal para notebooks mais finos e computadores, ultrabooks e ultratop com espaço limitado.\r\n\r\n\r\n\r\nConteúdo da embalagem:\r\n\r\n- SSD Kingston\r\n\r\n\r\nGarantia:\r\n36 meses de garantia"
+    }, 
 
+    {   "id": 8,
+        "nome": "Notebook Asus AMD Ryzen 5-3500U, 8GB RAM, SSD 256GB, 15,6', Radeon Vega 8, Windows 11 Home, Cinza - M515DA-BR1213W",
+        "preco": 4440,
+        "desconto": 50,
+        "estrelas": 5,
+        "reviews": 118,
+        "imagem": "produto-8.png",
+        "categorias": "computador, notebook",
+        "ficha-tecnica": "Características:\r\n\r\n- Marca: Asus\r\n\r\n- Modelo: M515DA-BR1213W\r\n\r\n \r\n\r\nEspecificações:\r\n- Cor: Cinza\r\n- Teclado: Chiclet com teclado numérico\r\n- Câmera VGA\r\n\r\n\r\nSistema Operacional:\r\n- Windows 11 Home \r\n\r\n\r\nProcessador\r\n- Processador: AMD Ryzen 5 3500U 2,1 GHz (Cache de 4 M, até 3,7 GHz)\r\n\r\n\r\nTela:\r\n- 15,6'', HD (1366 x 768)\r\n- 16:9 aspect ratio\r\n- 200nits\r\n- NTSC: 45%\r\n- Para não-OLED\r\n- Tela antirreflexo\r\n- Proporção tela/corpo 83％\r\n\r\n\r\nArmazenamento:\r\n- 256 GBPCIe NVMe 3.0 x2 M.2 SSD\r\n\r\n\r\nConectividade:\r\n- 1x 3.5mm Combo Audio Jack\r\n- 1x HDMI 1.4\r\n- 1x USB 3.2 Gen 1 Type-A\r\n- 1x USB 3.2 Gen 1 Type-C\r\n- 2x USB 2.0 Type-A\r\n\r\n\r\nÀudio:\r\n- SonicMaster\r\n- Microfone embutido com suporte à Cortana\r\n\r\n\r\nRede:\r\n- Wi-Fi 5 (802.11ac) + Bluetooth 4.1 (Dual band) 1*1\r\n\r\n\r\nBateria:\r\n- 45W, 2 Cells / 3300 mAh\r\n\r\n\r\nConteúdo da embalagem:\r\n- Notebook Asus\r\n- Carregador\r\n- Manual do Usuário\r\n\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n2500 gramas (bruto com embalagem)"
+    }, 
+
+    {
+        "id": 9,
+        "nome": "Monitor LG 23.8' IPS, Full HD, HDMI, VESA, Ajuste de Ângulo - 24MK430H",
+        "preco": 965.90,
+        "desconto": 10,
+        "estrelas": 5,
+        "reviews": 469,
+        "imagem": "produto-9.png",
+        "categorias": "computador",
+        "ficha-tecnica": "Características:\r\n\r\n- Marca: LG\r\n- Modelo: 24MK430H\r\n\r\nEspecificações:\r\n\r\n- Tamanho: 23,8\"\r\n\r\n- Tipo de Tela: IPS\r\n\r\n- Brilho: 250 cd/m²\r\n\r\n- Resolução Máxima: 1920 x 1080\r\n\r\n- Contraste Estático: 1000:1\r\n\r\n- Suporte de Cores: 16,7M \r\n\r\n- Pixel Pitch: 0,2745 x 0,2745 mm\r\n\r\n- Tempo de Resposta: 5ms\r\n\r\n- Revestimento de Tela Anti-glare (3H)\r\n\r\n- Frequência: H: 30 - 83 kHz / V: 56 - 75 Hz\r\n\r\n- Ângulo de Visão: 178° / 178°\r\n\r\n- Suporte de Parede (VESA) 75 x 75mm\r\n\r\n \r\n\r\nEntradas / Saída:\r\n\r\n- HDMI\r\n\r\n- HP Out\r\n\r\n\r\n\r\nRecursos:\r\n\r\n- Reader Mode\r\n\r\n- Flicker Safe\r\n\r\n- Color Weakness \r\n\r\n- Black Stabilizer\r\n\r\n- Smart Energy Saving\r\n\r\n- OnScreen Control \r\n\r\n \r\n\r\nEnergia:\r\n\r\n- Fonte Adaptador externo\r\n\r\n- Consumo de Energia 26,0W\r\n\r\n \r\n\r\nDimensões:\r\n\r\n- Ajuste de Inclinação\r\n\r\n- Líquida (com base) - LxAxP: 555,0 x 421,0 x 181,9 mm\r\n\r\n- Líquida (sem base) - LxAxP: 555,0 x 330,9 x 38,4 mm\r\n\r\n \r\n\r\n\r\nConteúdo da embalagem:\r\n- Monitor LG LED 23.8´\r\n- Fonte de Alimentação\r\n- Cabo HDMI\r\n\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n7289 gramas (bruto com embalagem)"
+    },
+
+    {
+        "id": 10,
+        "nome": "PC Gamer Overclock Extreme I7 12700kf, Rtx 3080, 32gb Ddr5, M.2 1tb",
+        "preco": 27250,
+        "desconto": 0,
+        "estrelas": 0,
+        "reviews": 0,
+        "imagem": "produto-10.png",
+        "categorias": "computador",
+        "ficha-tecnica": "Descrição:\r\nMáquina Overclock Extreme com a nova geração de processadores Intel Core 12th Geração e memória ram DDR5 está ,preparada para rodar qualquer jogo da atualidade com Alto desempenho, refrigeração liquida, armazenamento ultra com SSD M.2 , cable management, placa de vídeo RTX 3080 , coolers aRGB para você combinar as cores como achar melhor e combinar com seu ambiente, placa de vídeo na posição vertical para deixar o visual diferenciado que só a OVERCLOCK EXTREME tem. Seja para elevar sua gameplay ao máximo ou trabalhos pesados de renderização. As máquinas Overclock Extreme estão preparadas!\r\n\r\nProcessador: Intel Core i7-12700KF, Cache 25MB, 3.6GHz (5.0GHz Max Turbo), LGA 1700\r\nPlaca Mãe: Chipset Z690 DDR5\r\nPlaca de Vídeo: RTX 3080 10GB\r\nMemória RAM: 32Gb DDR5\r\nFonte: 1000W 80Plus\r\nGabinete: Lian Li\r\nRefrigeração: WaterCooler Aorus Waterforce\r\nArmazenamento: M.2 1Tb\r\n9 Coolers aRGB\r\n\r\nWindows 10 Trial\r\n\r\n*O visual de alguns componentes pode variar de acordo com a marca usada na montagem.\r\n \r\n\r\nGarantia do Fornecedor\r\n\r\n12 Meses\r\n\r\n \r\n\r\nFabricante\r\n\r\nOverclock Extreme\r\n\r\n \r\n\r\nModelo\r\n\r\nOCEX #1105\r\n\r\n\r\nPeso:\r\n21000 gramas (bruto com embalagem)"
+    },
+
+    {
+        "id": 11,
+        "nome": "Notebook, Razer, Blade 18, Intel 13ª Geração I9-13950hx, 64GB RAM, 4TB SSD NVMe, Tela 18 polegadas QHD, RTX 4090, windows 11 home",
+        "preco": 58800,
+        "desconto": 0,
+        "estrelas": 0,
+        "reviews": 0,
+        "imagem": "produto-11.png",
+        "categorias": "computador, notebook",
+        "ficha-tecnica": "c a r a c t e r í s t i c a s:\r\n\r\n» intel i9-13950hx de 5.5ghz (turbo) c/24 núcleos e cachê 36mb\r\n\r\n» tela de 18 polegadas qhd (2560 x 1600p) de 240hz · matte\r\n\r\n» placa gráfica nvidia rtx 4090 · 16gb gddr6 dedicada\r\n\r\n» ssd 4tb padrão pcie nvme (m.2-2280 até 5000mbps)\r\n\r\n» ram de 64gb ddr5 5200mhz · expansível até 64gb (2 slots)\r\n\r\n» windows 11 home de 64bits em português\r\n\r\n\r\n\r\nd e s t a q u e s:\r\n\r\n» rede wi-fi 6e (802.11ax)· bluetooth v5.3\r\n\r\n» usb: 2 portas type-c (thunderbolt 4) e 3 portas type-a v3.2\r\n\r\n» porta hdmi 2.1 (4k) 7.1 codec support\r\n\r\n» webcam hd 720p e microfone dual array · leitor uhs\r\n\r\n» áudio thx spacial c/4 speakers\r\n\r\n» teclado razer chroma rgb retro iluminado\r\n\r\n» precision xl glass touchpad\r\n\r\n» bivolt automático · bateria de 91whr para 8hrs de uso (média)\r\n\r\n» dimensões: 2.1 x 27.5 x 39.9cm com 3.2kgs\r\n\r\n» modelo rz09-0484ueh4 · 7908078439117\r\n\r\n» gabinete na cor black conforme imagens do site\r\n\r\n\r\n\r\nr e l e v a n t e:\r\n\r\n» garantia limitada 1 ano, conforme descrito em nota fiscal\r\n\r\n» produto americano: teclado c/acentuação brasil, mas não abnt\r\n\r\n» oferta exclusiva à pessoa física (consulte sobre p.jur.)\r\n\r\n» produto é inicializado, feito revisão e atualizado o windows\r\n\r\n» envio em caixa kraft c/proteção p/evitar incidentes de transporte\r\n\r\nItens Inclusos\r\n\r\nPlaca gráfica Nvidia RTX 4090 · 16Gb GDDR6 dedicada\r\n\r\n \r\n\r\nFabricante\r\n\r\nRazer 18 intel i9-13950HX RTX 4090 QHD 18 SSD 4Tb RAM 64Gb\r\n\r\n \r\n\r\nModelo\r\n\r\nIntel i9-13950HX de 5.5GHz (turbo) c/24 núcleos e cachê 36Mb\r\n\r\n\r\nPeso:\r\n3200 gramas (bruto com embalagem)"
+    },
+
+    {
+        "id": 12,
+        "nome": "Iphone 13 Pro Max, Apple, 1Tb - Dourado",
+        "preco": 15504.02,
+        "desconto": 0,
+        "estrelas": 0,
+        "reviews": 0,
+        "imagem": "produto-12.png",
+        "categorias": "celular",
+        "ficha-tecnica": "Tipo de Tela : Super Retina XDR com ProMotion\r\nResolução da Tela : 2778 x 1284 pixels a 458 ppp\r\nConectividade : Bluetooth\r\nProcessador : A15 Bionic\r\nSensores : Face ID, scanner LiDAR, barômetro, giroscópio de três eixos, acelerômetro, sensor de proximidade e sensor de luz ambiente\r\nCapacidade da Bateria : Bateria interna recarregável de íon de lítio\r\nOperadora : Desbloqueado\r\nCertificado de Homologação da Anatel : 11243-21-01993\r\nPeso do Produto : 238 g\r\nDimensões do produto - AxLxP : 16,8 x 7,81 x 0,7 cm\r\nConteúdo da embalagem : iPhone com iOS 15, cabo de USB-C para Lightning, documentação\r\nRecursos : Tela Super Retina XDR de 6,7 polegadas com ProMotion para uma experiência mais rápida e responsiva***. Modo Cinema. Diminui a profundidade de campo e muda o foco nos seus vídeos automaticamente. Sistema de câmera Pro de 12 MP (novas câmeras teleobjetiva, grande-angular e ultra-angular) Scanner LiDAR alcance de zoom óptico de 6x fotografia macro Estilos Fotográficos, vídeo ProRes****, HDR Inteligente 4, modo Noite, Apple ProRAW, gravação de vídeo 4K HDR Dolby Vision. Câmera frontal TrueDepth de 12 MP com modo Noite, gravação de vídeo 4K HDR Dolby Vision. Chip A15 Bionic para um desempenho impressionante. Até 28 horas de reprodução de vídeo, a maior duração de bateria em um iPhone**. Design resistente com Ceramic Shield. Classificação IP68 de resistência à água (líder do setor)*****. 5G para fazer downloads em alta velocidade e streaming de alta qualidade*. iOS. Novos recursos para você fazer mais com o iPhone****** Compatível com acessórios MagSafe com encaixe fácil e recarga sem fio mais rápida*******\r\n \r\n\r\nGarantia do Fornecedor\r\n\r\n12 Meses\r\n\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n238 gramas (bruto com embalagem)"
+    },
+
+    {
+        "id": 13,
+        "nome": "Fone de Ouvido Bluetooth Xiaomi Earbuds Basic 2/ AirDots,Auto Pareamento,Bateria Longa Duração,Preto - XM542PRE",
+        "preco": 179,
+        "desconto": 5,
+        "estrelas": 4,
+        "reviews": 118,
+        "imagem": "produto-13.png",
+        "categorias": "acessorio",
+        "ficha-tecnica": "Características:\r\n\r\n- Marca: Xiaomi\r\n\r\n- Modelo: XM542PRE\r\n\r\n \r\n\r\nEspecificações:\r\n\r\n \r\n\r\nGeral:\r\n\r\n- Conectividade: Sem fio (Wireless)\r\n\r\n- Sistema de Áudio: Estéreo\r\n\r\n- Versão de Bluetooth: Bluetooth 5.0\r\n\r\n- Perfis de bluetooth: HFP/A2DP/HSP/AVRCP\r\n\r\n- Alcance: Até 10 metros (Em um ambiente livre de obstáculos)\r\n\r\n- Tipo de Driver: Dinâmico de 7.2mm\r\n\r\n- Resposta de Frequência: 20Hz – 20KHz\r\n\r\n- Cancelamento de Ruídos:Não\r\n\r\n- Microfone Integrado: Sim\r\n\r\n- Suporte a Comando de Voz Inteligente: Sim\r\n\r\n- Modo de Controle: Botão físico\r\n\r\n- Material: Plástico ABS\r\n\r\n- Compatibilidade: Compatível com todos os tablets, smartphones, notebook's, iPads, iPhones e iPods que possuem conexão Bluetooth\r\n\r\n \r\n\r\nOutras Características:\r\n\r\n- Utilização Individual: Quando apenas um lado do fone é conectado individualmente no aparelho, o pareamento é realizado automaticamente.\r\n\r\n\r\n\r\nBateria:\r\n\r\n- Tipo: Bateria interna recarregável\r\n\r\n- Capacidade da Bateria: Earbuds: 43mAh (cada fone) / Case: 300mAh \r\n\r\n- Duração da bateria em uso: Earphones: Até 4 horas com uma úniga carga / Case: Até 12 horas (3 recargas completas)\r\n\r\n- Tempo de Carregamento: : Earphones: 1,5 horas / Case: 2 horas\r\n\r\n- Tipo de Carregamento: Earphones: Magnético / Case: Micro USB\r\n\r\n \r\n\r\nInformações de Uso:\r\n\r\n*A duração da bateria, quantidades de recargas do estojo e o tempo de carregamento podem variar dependendo de fatores externos , tais como forma de utilização, volume de operação, configurações do aparelho, dentre outros.\r\n\r\n \r\n\r\nConteúdo da Embalagem:\r\n\r\n- 1x Fone de Ouvido Bluetooth Xiaomi Earbuds Basic 2\r\n\r\n- 1x Estojo de Carregamento\r\n\r\n- 3x Pares de ponteiras de silicone (P,M,G) (Ponteira de silicone M instalada nos Earbuds)\r\n\r\n- 1x Manual\r\n\r\n\r\n\r\nObs: *Não acompanha carregador e nem cabo USB\r\n\r\n\r\nGarantia:\r\n3 meses de garantia\r\n\r\nPeso:\r\n90 gramas (bruto com embalagem)"
+    },
+
+    {
+        "id": 14,
+        "nome": "Smartphone Samsung Galaxy S20 FE 5G, 6GB RAM, 128GB, Octa Core, Câmera Tripla 32MP, Tela Infinita 6.5, Azul Marinho - SM-G781BZBRZTO",
+        "preco": 2420,
+        "desconto": 10,
+        "estrelas": 5,
+        "reviews": 45,
+        "imagem": "produto-14.png",
+        "categorias": "celular",
+        "ficha-tecnica": "Características:\r\n\r\n- Marca: Samsung\r\n\r\n- Modelo: SM-G781BZBRZTO\r\n\r\n \r\n\r\nEspecificações:\r\n\r\n- Proteção IP: IP68\r\n\r\n- Formato: Barra\r\n\r\n- Interface: Touch Screen\r\n\r\n \r\n\r\nSistema operacional:\r\n\r\n- Android 10\r\n\r\n- Plataforma 64 bits\r\n\r\n- Loja de aplicativos: Play store/galaxy apps\r\n\r\n \r\n\r\nProcessador:\r\n\r\n- Núcleos: Octa-Core\r\n\r\n- Velocidade do processador: 2.73 GHz\r\n\r\n- Snapdragon 865\r\n\r\n \r\n\r\nBandas:\r\n\r\n- 2G GSM (GPRS/EDGE): GSM 850MHz, GSM 900MHz, GSM 1800MHz, GSM 1900MHz\r\n\r\n- 3G Bandas: B1(2100), B2(1900), B3(1800), B5(850), B8(900)\r\n\r\n- 3G Downlink/Uplink: HSPA+ 42.2 / 5.76 Mbps\r\n\r\n- 4G Bandas: B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B17(700),B20(800),B26(850),B28(700),B32(1500),B66(AWS-3)\r\n\r\n- 4G categoria: Cat 16 (DL)/Cat 13 (UL)\r\n\r\n- 5G\r\n\r\n \r\n\r\nConectividade:\r\n\r\n- Bluetooth: versão 5.0\r\n\r\n- Browser: Google Chrome, Samsung\r\n\r\n- Conexão Wi-Fi: 802.11 a/b/g/n/ac/ax 2.4G+5GHz, HE80, MIMO, 1024-QAM\r\n\r\n- Roteador Wi-Fi: Sim\r\n\r\n- NFC: Sim\r\n\r\n- MST (emulador de tarja magnética): Sim\r\n\r\n- SAMSUNG Pay: Sim\r\n\r\n- 2 Chips: Dual Chip\r\n\r\n- Tipo de SIM: Nano SIM (4FF)\r\n\r\n- USB versão: 3.2 Gen 1\r\n\r\n- USB Conector: Tipo C\r\n\r\n \r\n\r\nE-mail e escritório:\r\n\r\n- E-mail: Google Mail, SAMSUNG E-mail\r\n\r\n- Push E-mail: Microsoft, Direct Push E-Mail for Exchange\r\n\r\n- Tipos de E-mail Suportados: POP3,IMAP4,SMTP,SSL,TLS,EAS\r\n\r\n- Visualização de Arquivos Office: Sim\r\n\r\n- Edição de Arquivos Office: Disponível para download\r\n\r\nSensores:\r\n\r\n- Tipos de Sensores: Acelerômetro, Giroscópio, Geomagnético, Hall, Proximidade, Luz RGB\r\n\r\n- Leitor Biométrico (Impressão Digital): Sim - Na Tela\r\n\r\n \r\n\r\nDisplay:\r\n\r\n- Tecnologia: Super AMOLED\r\n\r\n- Tamanho do Display: 6.5\" | 164.0mm \r\n\r\n- Número de Pixels: 1080 x 2400 (FHD+)\r\n\r\n- Quantidade de Cores: 16 M\r\n\r\n- Vidro Reforçado: Sim\r\n\r\n \r\n\r\nCâmera traseira:\r\n\r\n- Resolução: Câmera Tripla Traseira de 12MP (Ultra Wide) + 12MP (OIS) + 8MP (Telephoto)\r\n\r\n- Abertura: F2.0 + F1.8 + F2.2\r\n\r\n- Zoom: Zoom Digital até 30x e Óptico 3x\r\n\r\n- Estabilizador Óptico de Imagem (OIS): Sim\r\n\r\n- Sensor Phase Detection (PDAF): Sim\r\n\r\n- Foco Automático (AF): Sim\r\n\r\n- Flash: Flash LED\r\n\r\n \r\n\r\nCâmera frontal:\r\n\r\n- Resolução: 32MP\r\n\r\n- Abertura: F2.2\r\n\r\n- Flash Frontal: Sim - Na Tela\r\n\r\n \r\n\r\nVídeo:\r\n\r\n- Formatos Suportados para reprodução: MP4,M4V,3GP,3G2,WMV,ASF,AVI,FLV,MKV,WEBM\r\n\r\n- Resolução de reprodução: UHD 8K (7680 x 4320) | @30fps\r\n\r\n- Resolução de gravação: UHD 4K (3840 x 2160) | @60fps\r\n\r\n- Formato suportado de Streaming: 3GP,MP4, MP3\r\n\r\n \r\n\r\nImagem:\r\n\r\n- Formatos Suportados: A-GIF,BMP,GIF,HEIF,JPEG,P-JPEG,PNG,WebP,WBMP\r\n\r\n \r\n\r\nMúsica:\r\n\r\n- Reprodução de Música: Sim\r\n\r\n- Formatos Suportados: MP3,M4A,3GA,AAC,OGG,OGA,WAV,WMA,AMR,AWB,FLAC,MID,MIDI,XMF,MXMF,IMY,RTTTL,RTX,OTA,DFF,DSF,APE\r\n\r\n- Rádio FM: Não\r\n\r\n- Gravação de Rádio FM: Não\r\n\r\n- RDS: Não\r\n\r\n \r\n\r\nGPS:\r\n\r\n- GPS Sim\r\n\r\n- A-GPS Sim\r\n\r\n \r\n\r\nMemória:\r\n\r\n- Memória Interna total compartilhada: 128GB\r\n\r\n- Suporte a Cartão de Memória: Sim\r\n\r\n- Tipo Cartão de Memória Suportado: Micro SD\r\n\r\n- Capacidade do Cartão de Memória: até 1TB\r\n\r\n- Memória RAM: 6GB\r\n\r\n \r\n\r\nBateria:\r\n\r\n- Capacidade da Bateria (mAh): 4500 mAh\r\n\r\n- Tipo de Bateria: Ions de Lítio\r\n\r\n- Voltagem: Bi-Volt\r\n\r\n- Carregamento Rápido: Sim (Super-rápido de 25W)\r\n\r\n- Carregamento Sem Fio: Sim\r\n\r\n \r\n\r\nConteúdo da Embalagem:\r\n\r\n- Smartphone Samsung Galaxy S20 FE 128GB\r\n\r\n- Carregador\r\n\r\n- Cabo USB\r\n\r\n- Extrator de chip\r\n\r\n- Manual do usuário\r\n\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n310 gramas (bruto com embalagem)"
+    }, 
+
+    {
+        "id": 15,
+        "nome": "Smartphone Motorola Moto Edge 20 Pro, 256GB, 5G, 12GB RAM, Octa Core, 108MP, Tela 6.7, Capa Protetora, Azul - XT2153-1",
+        "preco": 3299,
+        "desconto": 5,
+        "estrelas": 5,
+        "reviews": 43,
+        "imagem": "produto-15.png",
+        "categorias": "celular",
+        "ficha-tecnica": "Características:\r\n\r\n- Marca: Motorola\r\n\r\n- Modelo: XT2153-1\r\n\r\n \r\n\r\nEspecificações:\r\n\r\n \r\n\r\nSistema Operacional:\r\n\r\n- Android 11\r\n\r\n \r\n\r\nProcessador:\r\n\r\n- Qualcomm Snapdragon 870\r\n\r\n- Clock: 3.2 GHz\r\n\r\n- Octa-Core\r\n\r\n- Adreno 650\r\n\r\n \r\n\r\nMemória RAM:\r\n\r\n- Capacidade: 12 GB\r\n\r\n \r\n\r\nArmazenamento:\r\n\r\n- Total: 256 GB\r\n\r\n- Armazenamento Disponível: 236 GB\r\n\r\n \r\n\r\nTela:\r\n\r\n- Tamanho: 6,7” Max Vision\r\n\r\n- Resolução: Full HD+\r\n\r\n- pOLED\r\n\r\n- 144 Hz\r\n\r\n- HDR10+\r\n\r\n \r\n\r\nBateria:\r\n\r\n- Capacidade: 4500 mAh\r\n\r\n- Tipo de carregador: TurboPower 30 W\r\n\r\n \r\n\r\nSensores:\r\n\r\n- Acelerômetro\r\n\r\n- Proximidade\r\n\r\n- Giroscópio\r\n\r\n- Luz Ambiente\r\n\r\n- Impressão Digital\r\n\r\n \r\n\r\nEntradas:\r\n\r\n- USB-C\r\n\r\n \r\n\r\nDimensões:\r\n\r\n- Altura: 163,3 mm\r\n\r\n- Largura: 76 mm\r\n\r\n- Profundidade: 8 mm\r\n\r\n \r\n\r\nCâmera Traseira:\r\n\r\n- Câmera Principal: 108 MP | Lente 82° | Abertura f/1,9\r\n\r\n- Câmera Ultra-wide e Macro: 16 MP | Lente 119° | Abertura f/2,2\r\n\r\n- Câmera Teleobjetiva: 8 MP | Lente 19° | Abertura f/3,4 |OIS\r\n\r\n- Zoom Digital: 10x\r\n\r\n- Zoom Óptico: 5x\r\n\r\n- Zoom Combinado:50x\r\n\r\n- Captura de vídeo: Ultra HD 8K (24fps)\r\n\r\n- Flash: Sim | Dual LED\r\n\r\n \r\n\r\nCâmera Frontal: \r\n\r\n- Câmera Principal Frontal: 32 MP| Lente 73° | Abertura f/2,2\r\n\r\n- Captura de vídeo: Ultra HD 4K (30fps)\r\n\r\n \r\n\r\nConectividade:\r\n\r\n- NFC\r\n\r\n- Bluetooth 5.1\r\n\r\n- Wi-Fi: 802.11 a/b/g/n/ac/ax | 2,4 GHz e 5 GHz | Wi-Fi 6\r\n\r\n \r\n\r\nBandas:\r\n\r\n- 2G - GSM 850/900/1800/1900 MHz\r\n\r\n- 3G - WCDMA 850/900/1700/1900/2100 MHz\r\n\r\n- 4G - LTE B1/B2/B3/B4/B5/B7/B8/B12/B13/B17/B18/B19/B20/B26/B28/B32/B34/B38/B39/B40/B41/B42/B43/B66\r\n\r\n- 5G* - NR n1/n3/n5/n7/n8/n20/n28/n38/n40/n41/n66/n77/n78\r\n\r\n \r\n\r\nServiços de Localização:\r\n\r\n- GPS\r\n\r\n- AGPS\r\n\r\n- LTEPP\r\n\r\n- SUPL\r\n\r\n- GLONASS\r\n\r\n- Galileo\r\n\r\n \r\n\r\nCartão SIM:\r\n\r\n- Nano SIM (4FF)\r\n\r\n- Entrada do Chip 1: Chip 1 / Entrada do Chip 2: Chip 2\r\n\r\n \r\n\r\nConteúdo da Embalagem:\r\n\r\n- 1 x Smartphone Motorola Moto Edge 20 Pro, 256GB, 5G, 12GB RAM, Octa Core, 108MP, Tela 6.7, Capa Protetora, Azul \r\n\r\n- 1 x Capa protetora\r\n\r\n- 1 x Kit de manuais\r\n\r\n- 1 x Fone de ouvido estéreo USB-C\r\n\r\n- 1 x Cabo de sincronização USB-C / USB-C\r\n\r\n- 1 x Carregador Turbo Power 30 W\r\n\r\n- 1 x Ferramenta de remoção do chip\r\n\r\n \r\n\r\nNotas\r\n\r\n \r\n\r\n1. Ready For conexão com fio necessita de um cabo USB-C® habilitado para vídeo (3.1 ou superior), ou um adaptador USB-C® para HDMI; a TV ou o monitor deve ter entrada de vídeo USB-C® ou entrada HDMI, caso seja utilizado o adaptador. (Motorola edge 20 pro e Motorola edge 20) Ready For conexão sem fio é compatível com TV que suporta espelhamento de tela através do Miracast com smartphone Android. (Motorola edge 20 pro, Motorola edge 20 e Motorola edge 20 lite) Ready For PC está disponível para o Windows 10. Acesse a página de perguntas frequentes para ver a lista completa de dispositivos e softwares compatíveis. É necessário baixar o app no computador. Para que o computador e o dispositivo móvel se conectem sem fio, eles precisam compartilhar o mesmo ponto de acesso Wi-Fi. Caso contrário, será necessário usar um cabo USB-C para conectá-los. Imagens meramente ilustrativas.\r\n\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n520 gramas (bruto com embalagem)"
+    },
+
+    {
+        "id": 16,
+        "nome": "Placa De Vídeo Gigabyte Rtx 4090, 24GB, 384bits, Gaming Oc",
+        "preco": 18146.39,
+        "desconto": 10,
+        "estrelas": 0,
+        "reviews": 0,
+        "imagem": "produto-16.png",
+        "categorias": "hardware",
+        "ficha-tecnica": "Descrição:\r\n\r\nPlaca de vídeo gigabyte nvidia geforce rtx 4090, 24gb, gddr6x, 384bits, edição gaming oc multiprocessadores de streaming nvidia ada lovelace: desempenho e eficiência de energia até 2x núcleos tensores de 4ª geração: desempenho de ia até 2x núcleos rt de 3ª geração: desempenho de até 2x ray tracing com tecnologia geforce rtx™ 4090 integrado com interface de memória de 24 gb gddr6x de 384 bits sistema de refrigeração windforce rgb fusion bios duplo placa traseira de metal de proteção suporte anti-queda 4 anos de garantia (requer registro com o fabricante) sistema de refrigeração windforce\r\no sistema de resfriamento windforce possui três fans de lâmina exclusivas de 110 mm, rotação alternada, 10 tubos de calor de cobre composto, uma grande câmara de vapor que toca diretamente a gpu, ventoinhas ativas 3d e resfriamento de tela, que juntos proporcionam dissipação de calor de alta eficiência. ray tracing: hiperrealista. Hiper-rápida.\r\na arquitetura ada libera toda a glória do traçado de raios, que simula como a luz se comporta no mundo real. Com o poder de rtx 40 series e núcleos rt de terceira geração, você pode experimentar mundos virtuais incrivelmente detalhados como nunca antes. dlss 3 nvidia: o multiplicador de desempenho, potencializado por ia.\r\ndlss é um avanço revolucionário em gráficos com tecnologia de ia que aumenta enormemente o desempenho. Alimentado por núcleos tensor de quarta geração e acelerador de fluxo óptico nas gpu geforce rtx 40 series, dlss 3 usa ia para criar quadros adicionais de alta qualidade. especificações: motor gráfico: nvidia geforce rtx 4090 núcleos cuda: 16384 relógio de memória: 21 gbps tamanho da memória: 24 gb tipo de memória: gddr6x barramento de memória: 384 bits barramento de cartão: pci-e 4.0 x 16 resolução máxima digital: 7680x4320 multivisualização: 4 dimensões da placa: 340 mm x 150,2 mm x 75,2 mm directx: 12 opengl: 4.6 fonte de alimentação recomendada: 1000w conectores de energia: 16 pinos x1 saída: displayport 1.4 x3 hdmi 2.1 x1\r\n\r\n\r\nGarantia do Fornecedor\r\n\r\n12 Meses De Garantia ( A Garantia Será De 12 (doze) Meses A Contar Da Data De Emissão Da Nota Fiscal, Sendo: 3 (três) Meses De Garantia Legal + 9 Meses De Garantia Pela Loja. )\r\n\r\n\r\nPeso:\r\n2000 gramas (bruto com embalagem)"
+    },
+
+    {
+        "id": 17,
+        "nome": "Cooler FAN Rise Mode Wind W1, 120mm, LED Branco - RM-WN-01-BW",
+        "preco": 19.99,
+        "desconto": 0,
+        "estrelas": 5,
+        "reviews": 429,
+        "imagem": "produto-17.png",
+        "categorias": "hardware",
+        "ficha-tecnica": "Características:\r\n\r\n- Marca: Rise Mode\r\n\r\n- Modelo: RM-WN-01-BW\r\n\r\n \r\n\r\nEspecificações:\r\n\r\n- Cor do Led: Branco\r\n\r\n- Fluxo de ar do Fan: 50 CFM\r\n\r\n- Nível sonoro: 28 dBA\r\n\r\n- Velocidade: 1500 Rpm\r\n\r\n- Conector: 3 pin ou Molex\r\n\r\n \r\n\r\nDimensões:\r\n\r\n- 120 x 120 x 25 mm\r\n\r\n\r\n\r\nConteúdo da embalagem:\r\n\r\n- 1 x Cooler FAN Rise Mode\r\n\r\n- 4x Parafusos\r\n\r\n\r\nGarantia:\r\n12 meses de garantia\r\n\r\nPeso:\r\n125 gramas (bruto com embalagem)"
+    }
 ]

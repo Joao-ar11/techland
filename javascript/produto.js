@@ -49,8 +49,10 @@ function carregarImagem(nomeDaImagem) {
 }
 
 function carregarPreco(precoSemDesconto, desconto) {
-    const precoAntigo = document.querySelector("#preco-antigo p");
-    precoAntigo.textContent = `R$${precoSemDesconto.toFixed(2)}`;
+    if (desconto !== 0) {
+        const precoAntigo = document.querySelector("#preco-antigo p");
+        precoAntigo.textContent = `R$${precoSemDesconto.toFixed(2)}`;
+    }
     const precoAtual = document.querySelector("#preco p");
     precoAtual.textContent = `R$${(precoSemDesconto - (precoSemDesconto * desconto / 100)).toFixed(2)}`;
 }

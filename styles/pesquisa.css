@@ -4,7 +4,7 @@
     min-height: 500px;
 
     display: grid;
-    justify-content: space-between;
-    grid-template-columns: repeat(auto-fit, 295px);
+    justify-content: start;
+    grid-template-columns: repeat(auto-fit, minmax(295px, 1fr));
     gap: 20px;
 }
