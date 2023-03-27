@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../img/logo.png">
     <link rel="stylesheet" href="../styles/style.css">
     <link rel="stylesheet" href="../styles/classeProduto.css">
     <link rel="stylesheet" href="../styles/pesquisa.css">
@@ -19,7 +20,7 @@
                     <h1>Techland</h1>
                 </div>
             </a>
-            <form action="../pages/pesquisa.html" class="pesquisa" method="get">
+            <form action="../pages/pesquisa.html" id="pesquisa" method="get">
                 <label for="barra-de-pesquisa"><span aria-label="barra-de-pesquisa"></span></label>
                 <input id="barra-de-pesquisa" type="search" name="pesquisa" placeholder="Pesquisa">
                 <button type="submit"><img src="../img/search.png" alt="Lupa de pesuisa"></button>
@@ -40,6 +41,30 @@
         </nav>
     </header>
     <main>
+        <h2>Filtros:</h2>
+        <div class="filtros">
+            <div class="range">
+                <label for="preco">Preço: </label>
+                <input type="range" id="preco" min="0" max="60000" value="0" name="preco" form="pesquisa">
+                <span class="valor"></span>
+            </div>
+            <div class="marca">
+                <label for="marca">Marca: </label>
+                <input type="text" id="marca" name="marca" form="pesquisa">
+            </div>
+            <div class="categoria">
+                <label for="categoria">Categoria: </label>
+                <input type="text" id="categoria" name="categoria" list="lista-de-categorias" form="pesquisa">
+                <datalist id="lista-de-categorias">
+                    <option value="Celular">Celular</option>
+                    <option value="Computador">Computador</option>
+                    <option value="Hardware">Hardware</option>
+                    <option value="Acessorio">Acessorio</option>
+                    <option value="Notebook">Notebook</option>
+                </datalist>
+            </div>
+        </div>
+        <h2>Resultados:</h2>
         <div class="resultados"></div>
     </main>
     <footer>

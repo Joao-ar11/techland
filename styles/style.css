@@ -69,7 +69,7 @@ header {
 
 /* style da barra de pesquisa e seu botão */
 
-.pesquisa {
+#pesquisa {
     margin-left: 7%;
     width: 60%;
 
@@ -78,7 +78,7 @@ header {
     gap: 10px;
 }
 
-.pesquisa input {
+#pesquisa input {
     padding-left: 10px;
     width: 80%;
     height: 2rem;
@@ -89,12 +89,12 @@ header {
     border-radius: 10px;
 }
 
-.pesquisa input:focus {
+#pesquisa input:focus {
     outline: none;
     border: 2px solid black;
 }
 
-.pesquisa button {
+#pesquisa button {
     cursor: pointer;
     min-width: 2.4rem;
     background-color: var(--bege);
@@ -103,7 +103,7 @@ header {
     border-radius: 1.2rem;
 }
 
-.pesquisa button img {
+#pesquisa button img {
     max-height: 2.3rem;
 }
 

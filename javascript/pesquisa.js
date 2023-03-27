@@ -1,8 +1,13 @@
 const url = new URL(window.location.href);
 const termo = url.searchParams.get("pesquisa");
-const barraDePesquisa = document.querySelector(".pesquisa input");
+const barraDePesquisa = document.querySelector("#pesquisa input");
 barraDePesquisa.value = termo;
 buscarProdutos(termo);
+const input = document.querySelector("#preco");
+const valor = document.querySelector(".valor")
+input.addEventListener("input", () => {
+    valor.textContent = `R$${input.value},00`;
+});
 
 function buscarProdutos(termo) {
     fetch("../javascript/produtos.json")
