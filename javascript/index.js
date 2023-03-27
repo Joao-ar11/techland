@@ -1,16 +1,29 @@
-for (let i = 1; i < 5; i++) {
-    adicionarProduto(".mais-vendidos", i);
-}
+adicionarProdutos(".mais-vendidos", 4, "reviews");
 
-for (let i = 1; i < 5; i++) {
-    adicionarProduto(".descontos-da-semana", i);
-}
+adicionarProdutos(".descontos-da-semana", 4, "desconto");
 
-function adicionarProduto(local, id) {
+function adicionarProdutos(local, quantidade, atributo = "") {
     fetch("./javascript/produtos.json")
         .then((json) => json.json())
         .then((produtos) => {
-            adicionarElementos(local, produtos[id]);
+            if (atributo !== "") {
+                listaOrdenada = produtos.sort((a, b) => {
+                if (a[atributo] > b [atributo]) {
+                    return -1;
+                } else if (a[atributo] < b[atributo]) {
+                    return 1;
+                } else {
+                    return 0;
+                }
+                });
+                for (let i = 0; i < quantidade; i++) {
+                    adicionarElementos(local, listaOrdenada[i]);
+                }
+            } else {
+                for (let i = 0; i < quantidade; i++) {
+                    adicionarElementos(local, produtos[i]);
+                }
+            }
         });
 }
 

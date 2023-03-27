@@ -1,15 +1,6 @@
 [
     {
         "id": 0,
-        "nome": "erro",
-        "preco": 0,
-        "reviews": 0,
-        "imagem": "erro.png",
-        "ficha-tecnica": "erro"
-    },
-
-    {
-        "id": 1,
         "nome": "Notebook Gamer Lenovo Gaming 3i Intel Core i5-11300H, GeForce GTX 1650, 8GB RAM, SSD 512GB, 15.6 Full HD, Windows 11, Preto - 82MG0009BR",
         "preco": 4309,
         "desconto": 5,
@@ -21,7 +12,7 @@
     },
 
     {
-        "id": 2,
+        "id": 1,
         "nome": "Mouse Gamer Logitech G403 HERO com RGB LIGHTSYNC, 6 Botões Programáveis, Ajuste de Peso e Sensor HERO 25K - 910-005631",
         "preco": 214,
         "desconto": 10,
@@ -33,7 +24,7 @@
     },
 
     {
-        "id": 3,
+        "id": 2,
         "nome": "Teclado Mecânico Gamer Logitech G512 Carbon com Layout ABNT2, RGB LIGHTSYNC, USB Passthrough, Switch Exclusivo GX Brown - 920-009400",
         "preco": 689,
         "desconto": 20,
@@ -45,7 +36,7 @@
     },
 
     {
-        "id": 4,
+        "id": 3,
         "nome": "Webcam Full HD Logitech C922 Pro Stream com Microfone Embutido, 1080p e Tripé Incluso, Compatível Logitech Capture - 960-001087",
         "preco": 399.99,
         "desconto": 5,
@@ -57,7 +48,7 @@
     },
     
     {
-        "id": 5,
+        "id": 4,
         "nome": "Placa de Vídeo RTX 4090 Suprim Liquid X MSI NVIDIA Geforce, 24 GB GDDR6X, DLSS, Ray Tracing - Geforce RTX 4090 SUPRIM LIQUID X 24G",
         "preco": 14776.46,
         "desconto": 15,
@@ -69,7 +60,7 @@
     }, 
     
     {
-        "id": 6,
+        "id": 5,
         "nome": "Headset Gamer Astro A40 TR + MixAmp M80 Gen 4 para Xbox One - Preto/Vermelho - 939-001808",
         "preco": 1058.81,
         "desconto": 15,
@@ -81,7 +72,7 @@
     },
 
     {
-        "id": 7,
+        "id": 6,
         "nome": "SSD 240 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 350MB/s - SA400S37/240G",
         "preco": 211.75,
         "desconto": 15,
@@ -92,7 +83,8 @@
         "ficha-tecnica": "Características:\r\n\r\n- Marca: Kingston\r\n\r\n- Modelo: SA400S37/240G\r\n\r\n \r\n\r\nEspecificações:\r\n\r\n- Formato: 2,5 pol \r\n\r\n- Interface: SATA Rev. 3.0 (6Gb/s) — compatível com a versão anterior SATA Rev. 2.0 (3Gb/s)\r\n\r\n- Capacidades: 240GB\r\n\r\n- NAND: TLC \r\n\r\n- Performance de referência - até 500MB/s para leitura e 350MB/s para gravação \r\n\r\n- Temperatura de armazenamento: -40 °C a 85 °C \r\n\r\n- Temperatura de operação: 0 °C a 70 °C\r\n\r\n- Vibração quando em operação: 2,17G pico (7 – 800 Hz)\r\n\r\n- Vibração quando não está em operação: 20G pico (10 – 2000 Hz)\r\n\r\n- Expectativa de vida útil: 1 milhão de horas MTB\r\n\r\n \r\n\r\nBenefícios: \r\n\r\n- 10x mais rápido do que um disco rígido: Com incríveis velocidades de leitura/gravação, o SSD A400 não somente irá aumentar o desempenho, como também poderá ser usado para dar vida nova em computadores mais antigos. \r\n\r\n- Robusto: O A400 é resistente a impactos e vibrações, para confiabilidade reforçada em notebooks e outros dispositivos móveis. \r\n\r\n- Ideal para desktops e notebooks: A400 tem um formato de 7 mm parase ajustar auma grande variedade de computadores. É ideal para notebooks mais finos e computadores, ultrabooks e ultratop com espaço limitado.\r\n\r\n\r\n\r\nConteúdo da embalagem:\r\n\r\n- SSD Kingston\r\n\r\n\r\nGarantia:\r\n36 meses de garantia"
     }, 
 
-    {   "id": 8,
+    {
+        "id": 7,
         "nome": "Notebook Asus AMD Ryzen 5-3500U, 8GB RAM, SSD 256GB, 15,6', Radeon Vega 8, Windows 11 Home, Cinza - M515DA-BR1213W",
         "preco": 4440,
         "desconto": 50,
@@ -104,7 +96,7 @@
     }, 
 
     {
-        "id": 9,
+        "id": 8,
         "nome": "Monitor LG 23.8' IPS, Full HD, HDMI, VESA, Ajuste de Ângulo - 24MK430H",
         "preco": 965.90,
         "desconto": 10,
@@ -116,7 +108,7 @@
     },
 
     {
-        "id": 10,
+        "id": 9,
         "nome": "PC Gamer Overclock Extreme I7 12700kf, Rtx 3080, 32gb Ddr5, M.2 1tb",
         "preco": 27250,
         "desconto": 0,
@@ -128,7 +120,7 @@
     },
 
     {
-        "id": 11,
+        "id": 10,
         "nome": "Notebook, Razer, Blade 18, Intel 13ª Geração I9-13950hx, 64GB RAM, 4TB SSD NVMe, Tela 18 polegadas QHD, RTX 4090, windows 11 home",
         "preco": 58800,
         "desconto": 0,
@@ -140,7 +132,7 @@
     },
 
     {
-        "id": 12,
+        "id": 11,
         "nome": "Iphone 13 Pro Max, Apple, 1Tb - Dourado",
         "preco": 15504.02,
         "desconto": 0,
@@ -152,7 +144,7 @@
     },
 
     {
-        "id": 13,
+        "id": 12,
         "nome": "Fone de Ouvido Bluetooth Xiaomi Earbuds Basic 2/ AirDots,Auto Pareamento,Bateria Longa Duração,Preto - XM542PRE",
         "preco": 179,
         "desconto": 5,
@@ -164,7 +156,7 @@
     },
 
     {
-        "id": 14,
+        "id": 13,
         "nome": "Smartphone Samsung Galaxy S20 FE 5G, 6GB RAM, 128GB, Octa Core, Câmera Tripla 32MP, Tela Infinita 6.5, Azul Marinho - SM-G781BZBRZTO",
         "preco": 2420,
         "desconto": 10,
@@ -176,7 +168,7 @@
     }, 
 
     {
-        "id": 15,
+        "id": 14,
         "nome": "Smartphone Motorola Moto Edge 20 Pro, 256GB, 5G, 12GB RAM, Octa Core, 108MP, Tela 6.7, Capa Protetora, Azul - XT2153-1",
         "preco": 3299,
         "desconto": 5,
@@ -188,7 +180,7 @@
     },
 
     {
-        "id": 16,
+        "id": 15,
         "nome": "Placa De Vídeo Gigabyte Rtx 4090, 24GB, 384bits, Gaming Oc",
         "preco": 18146.39,
         "desconto": 10,
@@ -200,7 +192,7 @@
     },
 
     {
-        "id": 17,
+        "id": 16,
         "nome": "Cooler FAN Rise Mode Wind W1, 120mm, LED Branco - RM-WN-01-BW",
         "preco": 19.99,
         "desconto": 0,
