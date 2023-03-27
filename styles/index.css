@@ -11,7 +11,8 @@ main h2 {
 
 /* seções de produtos */
 
-.mais-vendidos, .descontos-da-semana {
+.mais-vendidos, .descontos-da-semana, .produtos {
+    margin: 10px auto;
     padding: 0 3px 0 3px;
     width: 100%;
     box-sizing: border-box;
