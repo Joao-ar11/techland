@@ -118,7 +118,7 @@ article {
 }
 
 #favorito button:hover {
-    background-image: url(../img/coracao-cheio.png);
+    background-image: url(../img/favorito.png);
     background-repeat: no-repeat;
     background-size: 35px 35px;
     background-position: center;
