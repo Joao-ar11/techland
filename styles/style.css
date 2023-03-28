@@ -121,6 +121,10 @@ header {
     color: var(--branco);
 }
 
+#top .conta a:hover {
+    color: var(--bege);
+}
+
 /* carrinho e favoritos*/
 #top > a > img {
     margin: 0px 10px;
