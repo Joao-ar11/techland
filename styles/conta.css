@@ -1,9 +1,3 @@
-* {
-    padding: 0px;
-    margin: 0px;
-    border: 0px;
-}
-
 :root {
 
     --bege: #F0D78C;
@@ -58,6 +52,9 @@ main {
 }
 
 #informacao button {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
     display: block;
     text-align: center;
     background-color: var(--azul-claro);
