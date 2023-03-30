@@ -12,6 +12,8 @@
 main {
     display: flex;
     justify-content: center;
+    font-family: bebas kai;
+    color: white;
 }
 
 #conta  {
@@ -44,6 +46,8 @@ main {
     padding-left: 10px;
     font-size: 1rem;
     margin-bottom: 20px;
+    outline: none;
+    border: none;
 }
 
 #informacao form{
