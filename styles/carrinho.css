@@ -16,11 +16,16 @@
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  border: 1px solid var(--bege);
+  border-radius: 10px;
+  background-color: var(--azul-escuro);
+  padding: 5px;
 }
 .cart-items li img {
   width: 100px;
   height: 100px;
   margin-right: 10px;
+  border-radius: 10px;
 }
 .item-details h3 {
   margin: 0;
@@ -48,6 +53,7 @@
   background-color: #4caf50;
   color: white;
   border: none;
+  font-size: 1rem;
   padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;
