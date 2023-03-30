@@ -192,3 +192,19 @@ footer {
     cursor: pointer;
     height: 30px;
 }
+
+header #carrinho:hover {
+    background-image: url(../img/carrinho-cheio.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+header #favorito:hover {
+    background-image: url(../img/coracao-cheio-branco.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
