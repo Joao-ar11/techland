@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../styles/classeProduto.css">
     <link rel="icon" href="../img/logo.png">
 	<link rel="stylesheet" href="../styles/pagamento.css">
-    <title>Techland Pagamento</title>
+    <title>Techland</title>
     <script src="../javascript/index.js" defer></script>
     </script>
 </head>
@@ -48,6 +48,7 @@
 	<br>
 
 	<form>
+		<div id="informacoes">
 		<h2>Informações pessoais</h2>
 
 		<label for="nome">Nome completo:</label>
@@ -66,11 +67,9 @@
 		<input type="text" id="cep" name="cep" required><br>
 
 		<label for="contato">Telefone para contato:</label>
-		<input type="text" id="contato" name="contato" required><br>
-
-		<br>
-		<br>
-
+		<input type="text" id="contato" name="contato" required>
+		</div>
+		<div id="informacoes">
 		<h2>Informações do cartão</h2>
 		<label for="cartao">Número do cartão:</label>
 		<input type="text" id="cartao" name="cartao" required><br>
@@ -85,15 +84,16 @@
 		<input type="text" id="titular-cartao" name="titular-cartao" required><br>
 
 		<label for="cpf">CPF:</label>
-		<input type="text" id="cpf" name="cpf" required><br>
-		<br>
-
+		<input type="text" id="cpf" name="cpf" required>
+		</div>
+		<div id="informacoes">
 		<h3>Para um pagamento mais rápido use a nossa função de pagamento por QR CODE via <img src="../img/logopix.png" alt="Logo do PIX" class="pix"> PIX :</h3>
 		<img src="../img/qrcode.jpg" alt="QR Code" class="qrcode">
+		</div>
 		<br>
-
+		<div id="botaozin">
 		<input type="submit" value="Finalizar compra" class="fcompra">
-
+		</div>
 	</form>
 	<footer>
 		<div class="atendimento">
