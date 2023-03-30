@@ -1,0 +1,29 @@
+body {
+    background-color: #FCFAFA;
+}
+
+.qrcode {
+    width: 200px;
+}
+
+.pix {
+    width: 25px;
+}
+
+h1 {
+    padding: 10px;
+}
+
+form {
+    padding: 15px;
+}
+
+input {
+    border-color: #101010;
+    
+}
+
+.fcompra {
+    width: 150px;
+    height: 35px;
+}
